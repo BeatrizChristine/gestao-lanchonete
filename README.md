@@ -19,5 +19,6 @@ Sistema desktop/web (GUI em Java) com gerenciamento de clientes, pedidos, estoqu
 2. Configurar `db.properties` com credenciais do MySQL.  
 3. Executar `Main.java`.
 
-## Licença
-MIT © Beatriz Christine
+## 📄 Licença
+Este projeto foi desenvolvido por **Beatriz Christine Azevedo Batista**  
+e está licenciado sob a **Licença MIT** — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
